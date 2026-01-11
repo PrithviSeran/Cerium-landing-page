@@ -25,9 +25,6 @@ export function Header() {
           <Button variant="ghost" size="sm" className="hidden sm:inline-flex" disabled>
             Coming soon...
           </Button>
-          <Button size="sm" disabled>
-            Coming soon...
-          </Button>
         </div>
       </div>
     </header>
